@@ -10,6 +10,14 @@ the clipboard, so you can paste into a browser avoiding also keyloggers.
 Clear text passwords are maintained in main memory, so avoid to use it on 
 computers where ram may be hard read.
 
+==========
+DISCLAIMER
+==========
+Use this software at your own risk!
+
+===================
+QUESTIONS & ANSWERS
+===================
 Q: Why 128bit encryption? NSA can easly broke it!!!!
 A: Really??? Man, this is meant to be used with online services... do you really
 think that NSA try to crack your password to access these databases? Good boy!
