@@ -18,23 +18,23 @@ Use this software at your own risk!
 ===================
 QUESTIONS & ANSWERS
 ===================
-Q: Why 128bit encryption? NSA can easly broke it!!!!
+Q: Why 128bit encryption? NSA can easly broke it!!!!<br>
 A: Really??? Man, this is meant to be used with online services... do you really
 think that NSA try to crack your password to access these databases? Good boy!
 
-Q: Jawawawa is heavy as hell?
-A: If you are using firefox now... java is not so heavy at all. :)
+Q: Jawawawa is heavy as hell?<br>
+A: If you are using firefox now... java is not so heavy at all. :)<br>
 On the contrary, it's portable and maybe you can put a virtual machine on your
 pendrive to run it in systems that does not provide one.
 
-Q: It's not so intuitive to use...
-A: Yes it is!
-Q: No it isn't...
-A: GTFO
+Q: It's not so intuitive to use...<br>
+A: Yes it is!<br>
+Q: No it isn't...<br>
+A: GTFO<br>
 
-Q: Why is it so bugged now?
-A: Yes it is!
-Q: No it isn't...
+Q: Why is it so bugged now?<br>
+A: Yes it is!<br>
+Q: No it isn't...<br>
 A: Ok!
 
 ========================
